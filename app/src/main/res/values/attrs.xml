@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RectangleBoxEditText">
+        <attr name="boxStokeColor" format="color|reference"/>
+        <attr name="boxBackgroundColor" format="color|reference"/>
+        <attr name="numberTextColor" format="color|reference"/>
+        <attr name="boxCount" format="integer"/>
+        <attr name="boxPadding" format="dimension"/>
+    </declare-styleable>
+</resources>
